@@ -76,8 +76,9 @@ $artFill = $arrFilterTags['ARTICLES'];
 $tagFill = $arrFilterTags['TAGS'];?>
 
 
+  
 
-
+  
 <?$APPLICATION->IncludeComponent(
 	"bitrix:news.list",
 	"",
